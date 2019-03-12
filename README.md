@@ -1,6 +1,6 @@
 # Data Science Bootcamp Pre-work Revision 2019
 
-I made some modifications.
+I made some modifications. Something else.
 
 Track progress [here](https://github.com/thisismetis/dsp_revision/projects/1)
 
