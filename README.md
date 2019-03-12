@@ -1,5 +1,7 @@
 # Data Science Bootcamp Pre-work Revision 2019
 
+I made some modifications.
+
 Track progress [here](https://github.com/thisismetis/dsp_revision/projects/1)
 
 # Table of Contents
